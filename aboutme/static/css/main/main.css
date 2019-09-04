@@ -1,0 +1,17 @@
+/* Title */
+.main-title {
+    /* border: 3px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 100px;
+}
+
+.main-title h2 {
+    margin-bottom: 50px;
+}
+
+.main-title p {
+    width: 50%;
+    font-size: 1.8em;
+}
